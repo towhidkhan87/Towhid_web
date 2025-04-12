@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
-import CV from '../../public/Towhid_CV.pdf'
+import CV from '../../Towhid_CV.pdf'
 
 const Hero = () => {
     return (

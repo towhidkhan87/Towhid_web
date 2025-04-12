@@ -9,7 +9,7 @@ const Header = () => {
                     {/* Logo Section */}
                     <div className="flex items-center gap-3">
                         <Link to="/home" className="flex items-center gap-3">
-                            <img className="w-16 h-16 rounded-full" src="/public/Towhid_favicon.png" alt="Towhid's Logo" />
+                            <img className="w-16 h-16 rounded-full" src="/Towhid_favicon.png" alt="Towhid's Logo" />
                             <p className="text-xl font-bold text-gray-700">Towhid's Portfolio</p>
                         </Link>
                     </div>

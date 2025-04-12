@@ -18,7 +18,7 @@ const Home = () => {
             {/* Featured Projects Section */}
             <div className="w-11/12 mx-auto py-10 lg:w-9/12">
                 <h1 className="text-center text-4xl font-bold mb-10">Featured Projects</h1>
-                <img src="/public/Group 1.jpg" alt="" />
+                <img src="/Group 1.jpg" alt="" />
                 <div className="text-center mt-10">
                     <a
                         href="/projects"

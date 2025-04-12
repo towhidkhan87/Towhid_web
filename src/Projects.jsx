@@ -6,21 +6,21 @@ const Projects = () => {
             id: 1,
             title: "E-Commerce Website",
             description: "A fully responsive e-commerce platform with payment integration.",
-            image: "/public/towhidkhan87.github.io_Cheffest_practice_.png",
+            image: "/towhidkhan87.github.io_Cheffest_practice_.png",
             link: "/projects/ecommerce"
         },
         {
             id: 2,
             title: "Portfolio Website",
             description: "A modern portfolio showcasing creative work and skills.",
-            image: "/public/Home Screen.jpg",
+            image: "/Home Screen.jpg",
             link: "/projects/portfolio"
         },
         {
             id: 3,
             title: "Blog Platform",
             description: "A dynamic blog platform with user authentication and CMS features.",
-            image: "/public/Index-Landing Page.jpg",
+            image: "/Index-Landing Page.jpg",
             link: "/projects/blog"
         }
     ];
