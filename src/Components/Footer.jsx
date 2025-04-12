@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <div className="bg-gray-100">
             <div className="flex justify-center items-center flex-col gap-5 border-t-2 border-gray-300 py-5">
-                <img src="/Towhid_favicon.png" className="w-20 h-20 rounded-full" alt="Towhid's Profile" />
+                <img src="Towhid_favicon.png" className="w-20 h-20 rounded-full" alt="Towhid's Profile" />
                 <p className="font-semibold text-lg">Mohammad Towhidur Rahman Khan</p>
                 <p className="text-gray-600">Product Manager | Web Developer</p>
                 <div className="flex gap-5 py-5 text-2xl text-gray-700">

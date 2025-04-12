@@ -9,7 +9,7 @@ const About = () => {
                 {/* Profile Section */}
                 <div className="flex flex-col lg:flex-row items-center mb-10">
                     <img 
-                        src="/Towhid.png" 
+                        src="Towhid.png" 
                         alt="Towhid's Profile" 
                         className="w-48 h-48 rounded-full shadow-lg mb-5 lg:mb-0 lg:mr-10"
                     />

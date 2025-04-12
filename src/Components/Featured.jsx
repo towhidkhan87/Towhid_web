@@ -21,7 +21,7 @@ const Featured = () => {
                         <h1 className='text-6xl font-extrabold pulse-twice text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600'>Featured Services</h1>
                         <h1 className='mt-4 mx-10 text-lg'>Welcome the season of renewal with our Spring Awakening Collection, inspired by the beauty of blooming flowers and the magic of nature. This collection features delicate flower earrings, enchanting butterfly earrings, and nature-inspired designs that capture the essence of spring.</h1>
                     </div>
-                    <img className='opacity-50 w-72' src="../../Data Visual.webp" />
+                    <img className='opacity-50 w-72' src="../..Data Visual.webp" />
                 </div>
                 <div className='grid grid-cols-2 gap-4 w-2/4 py-5'>
                     {
