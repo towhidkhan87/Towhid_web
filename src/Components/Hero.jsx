@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
-import CV from '../..Towhid_CV.pdf'
+
 
 const Hero = () => {
     return (
@@ -29,7 +29,7 @@ const Hero = () => {
                             Me</Link></button>
                     <button
                         className="rounded-lg bg-gray-100 px-8 py-4 text-red-500 shadow-lg transform hover:translate-y-1 hover:shadow-sm transition hover:bg-red-500 hover:text-white hover:font-semibold">
-                            <a href={CV} download='CV'>Download CV</a></button>
+                            <a href="" download='CV'>Download CV</a></button>
                 </div>
             </div>
             <div class="slide-up-lg">
