@@ -1,0 +1,56 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@keyframes slide-in {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@media (min-width: 1024px) {
+    .slide-in-lg {
+        animation: slide-in 3s forwards;
+    }
+}
+
+@keyframes slide-up {
+    from {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@media (min-width: 1024px) {
+    .slide-up-lg {
+        animation: slide-up 3s forwards;
+    }
+}
+
+@keyframes slide-in-right {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@media (min-width: 1024px) {
+    .slide-in-right-lg {
+        animation: slide-in-right 5s forwards;
+    }
+}

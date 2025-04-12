@@ -1,0 +1,160 @@
+[
+    {
+      "name": "Data Visualization",
+      "description": "Creating insightful visual representations of data using tools like Power BI, Tableau, and Excel.",
+      "price_range": "$500 - $3000",
+      "image": "/public/Data Visual.webp",
+      "delivery_time": "3 - 10 days",
+      "tools_used": [
+        "Power BI",
+        "Tableau",
+        "Excel",
+        "Python",
+        "R"
+      ],
+      "category": "Data Analysis",
+      "productDisplayCategory": "Featured",
+      "clients": [
+        "Finance",
+        "Healthcare",
+        "Retail",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Predictive Analytics",
+      "description": "Utilizing machine learning models to forecast trends and behaviors.",
+      "price_range": "$1000 - $5000",
+      "image": "/public/Predictive-Analytics.webp",
+      "delivery_time": "7 - 20 days",
+      "tools_used": [
+        "Python",
+        "R",
+        "TensorFlow",
+        "Scikit-learn"
+      ],
+      "category": "Data Analysis",
+      "productDisplayCategory": "",
+      "clients": [
+        "E-commerce",
+        "Finance",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Full-Stack Web Development",
+      "description": "Building interactive web applications using MERN stack.",
+      "price_range": "$2000 - $10000",
+      "image": "/public/web-development.jpg",
+      "delivery_time": "2 - 6 weeks",
+      "tools_used": [
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "Express.js"
+      ],
+      "category": "Web Development",
+      "productDisplayCategory": "Featured",
+      "clients": [
+        "Startups",
+        "E-commerce",
+        "Corporate"
+      ]
+    },
+    {
+      "name": "WordPress Website Design",
+      "description": "Developing custom WordPress websites using Elementor and other plugins.",
+      "price_range": "$800 - $5000",
+      "image": "/public/Wordpress.jpg",
+      "delivery_time": "5 - 20 days",
+      "tools_used": [
+        "WordPress",
+        "Elementor",
+        "WooCommerce"
+      ],
+      "category": "Web Development",
+      "productDisplayCategory": "",
+      "clients": [
+        "Small Businesses",
+        "Blogs",
+        "E-commerce"
+      ]
+    },
+    {
+      "name": "Mobile App UI/UX Design",
+      "description": "Designing engaging and user-friendly mobile interfaces.",
+      "price_range": "$1000 - $7000",
+      "image": "/public/mobileux.jpg",
+      "delivery_time": "1 - 4 weeks",
+      "tools_used": [
+        "Figma",
+        "Adobe XD",
+        "Sketch"
+      ],
+      "category": "UI/UX Design",
+      "productDisplayCategory": "",
+      "clients": [
+        "Tech Startups",
+        "Healthcare",
+        "E-commerce"
+      ]
+    },
+    {
+      "name": "Website UI/UX Design",
+      "description": "Crafting beautiful and intuitive website designs.",
+      "price_range": "$800 - $6000",
+      "image": "/public/webux.webp",
+      "delivery_time": "1 - 3 weeks",
+      "tools_used": [
+        "Figma",
+        "Adobe XD",
+        "HTML",
+        "CSS"
+      ],
+      "category": "UI/UX Design",
+      "productDisplayCategory": "Featured",
+      "clients": [
+        "SaaS Companies",
+        "Corporate",
+        "Retail"
+      ]
+    },
+    {
+      "name": "Email Campaign Management",
+      "description": "Creating and managing email campaigns to drive engagement and sales.",
+      "price_range": "$500 - $5000",
+      "image": "/public/email.jpg",
+      "delivery_time": "3 - 14 days",
+      "tools_used": [
+        "Mailchimp",
+        "HubSpot",
+        "ActiveCampaign"
+      ],
+      "category": "Email Marketing",
+      "productDisplayCategory": "Featured",
+      "clients": [
+        "E-commerce",
+        "B2B Companies",
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Automated Email Sequences",
+      "description": "Setting up automated email workflows for lead nurturing and conversions.",
+      "price_range": "$700 - $4000",
+      "image": "/public/email2.jpg",
+      "delivery_time": "5 - 15 days",
+      "tools_used": [
+        "Klaviyo",
+        "ConvertKit",
+        "Mailchimp"
+      ],
+      "category": "Email Marketing",
+      "productDisplayCategory": "",
+      "clients": [
+        "E-commerce",
+        "Marketing Agencies",
+        "Consultants"
+      ]
+    }
+  ]
